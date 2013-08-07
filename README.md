@@ -1,5 +1,5 @@
-SimpleMenuLayerTutorial
-=======================
+![Image](http://i.imgur.com/UA1m8Sfs.jpg) SimpleMenuLayerTutorial
+=================================================================
 
 A tutorial on using SimpleMenuLayer in the Pebble SDK
 
